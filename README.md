@@ -1,7 +1,7 @@
 # Roboviz-Documentation
 Can not share any source code due to confidentiality issues.
 
-## Roboviz
+## Roboviz (Robots Navigation & Control)
 Roboviz is a application to manage the robots present in a warehouse. It facilitates the indoor navigation and gives a good control to user over the robots. This is basically a user interface for robots manufactured by UMA Robotics.
 
 ### Screenshots
