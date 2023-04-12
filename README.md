@@ -38,6 +38,7 @@ Roboviz is a application to manage the robots present in a warehouse. It facilit
   <img src="https://user-images.githubusercontent.com/79038241/231372472-59d3707e-3a22-4c23-8a6e-fde3a406c5a3.png" width="300"/>
   <img src="https://user-images.githubusercontent.com/79038241/231372480-6cfe1fac-ec35-4bfa-a736-1656344eecc0.png" width="300"/>
   <img src="https://user-images.githubusercontent.com/79038241/231372488-48331960-ca95-48b7-bdbe-b8ce92747153.png" width="300"/>
+  <img src="https://user-images.githubusercontent.com/79038241/231375670-3dabee5a-b9c2-4148-b782-fc48568f56a4.png" width="300"/>
   <img src="https://user-images.githubusercontent.com/79038241/231372497-9cc6e491-5711-49c8-864b-ac477a6cf5f9.png" width="300"/>
   <img src="https://user-images.githubusercontent.com/79038241/231372506-7cee151c-ee00-4536-8afa-16df370d9a81.png" width="300"/>
   <img src="https://user-images.githubusercontent.com/79038241/231372510-690ed1cd-b495-4a9a-a03c-98ad140fb511.png" width="300"/>
