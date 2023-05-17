@@ -13,7 +13,7 @@ Roboviz is a application to manage the robots present in a warehouse. It facilit
 
 
 
-### Version 1.1.0 (Latest)
+### Version 1.1.0 [Saperated the Node.js API from front end and shifted front end to React.js]
 <p align="">
   <img src="https://user-images.githubusercontent.com/79038241/231372438-6edd56ff-489c-4c71-9a83-7a2a667b306d.png" width="300"/>
   <img src="https://user-images.githubusercontent.com/79038241/231372456-3686ab08-6af4-4f67-a73d-e4b51a0bd75a.png" width="300"/>
@@ -29,7 +29,7 @@ Roboviz is a application to manage the robots present in a warehouse. It facilit
 <br>
 <br>
 
-### Version 1.0.0
+### Version 1.0.0 [Used EJS templating with Node.js]
 <p align="">
   <img src="https://user-images.githubusercontent.com/79038241/218666410-db92ea20-96af-49b3-a940-5115b19c37b5.jpg" width="300"/>
   <img src="https://user-images.githubusercontent.com/79038241/218666399-0074b239-ba8d-45e9-9753-4c0efc6394a9.jpg" width="300"/>
